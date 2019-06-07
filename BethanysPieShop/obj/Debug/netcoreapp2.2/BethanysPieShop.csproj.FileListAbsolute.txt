@@ -26,3 +26,11 @@ C:\Users\A331285\source\repos\POCs\BethanysPieShop\BethanysPieShop\obj\Debug\net
 C:\Users\A331285\source\repos\POCs\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.2\BethanysPieShop.dll
 C:\Users\A331285\source\repos\POCs\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.2\BethanysPieShop.pdb
 C:\Users\A331285\source\repos\POCs\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.2\BethanysPieShop.csproj.CopyComplete
+C:\Users\A331285\source\repos\POCs\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.2\BethanysPieShop.csprojAssemblyReference.cache
+C:\build_output\BethanysPieShop.deps.json
+C:\build_output\BethanysPieShop.runtimeconfig.json
+C:\build_output\BethanysPieShop.runtimeconfig.dev.json
+C:\build_output\BethanysPieShop.dll
+C:\build_output\BethanysPieShop.pdb
+C:\build_output\BethanysPieShop.Views.dll
+C:\build_output\BethanysPieShop.Views.pdb

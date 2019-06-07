@@ -10,6 +10,7 @@ namespace BethanysPieShop.Models
 {
     public class AppDbContext : IdentityDbContext<IdentityUser>
     {
+        //This a comment for build test
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
 
